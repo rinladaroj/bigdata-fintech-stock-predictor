@@ -1,4 +1,3 @@
-# bigdata-fintech-stock-predictor
 # 📈 Data-Driven Market Intelligence: Enhancing Predictive Accuracy in Financial Markets through Hybrid Sentiment-Technical Analytics
 
 ## 🎯 Project Overview
